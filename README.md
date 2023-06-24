@@ -21,8 +21,12 @@ fix.py 是修复一些英文游戏# 修复反斜杠转义的问题，大概是�
 
 检查空白.py  是检查json 导入前使用,因为导入json去rpy的时有时候会发生错误，所以需要检查，实际用途我也大概忘记了
 
+检查还没翻译的rpy.py  这个本来是打算用来检查还没翻译的rpy的但是条件设置的也不够好，改过几次后我也放弃了，至少这个可以检查一定程度还没翻译的文本
+
 这里的所有代码都是chatgpt写的，有任何疑问可以询问AI大神，让他修改由于自己是编程小白，有很多函数还是指定条件都无法正确给ai提示所以变成有些难度要完美的用json格式翻译
 
 希望在这里抛砖引玉让人完善代码或者有更好的方法用ai翻译renpy的游戏
 
-我是使用 https://github.com/NEKOparapa/AiNiee-chatgpt 来翻译renpy
+我是使用 https://github.com/NEKOparapa/AiNiee-chatgpt 来翻译renpy游戏的
+
+
